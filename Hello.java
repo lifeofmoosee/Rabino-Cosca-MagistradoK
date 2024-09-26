@@ -39,7 +39,9 @@ public class Hello {
   public double HourstoSeconds(int hours){
     return hours * 3600;
   }
-
+  public double HourstoMinutes(int hours){
+    return hours * 60;
+  }
   
     public static void main(String[] args)
     {
