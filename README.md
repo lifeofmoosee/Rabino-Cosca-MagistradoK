@@ -1,7 +1,7 @@
 # Rabino, Cosca, MagistradoK_Lab3
 
 ## Project Overview
-This repository contains the source code and related files for **Lab 3**, a collaborative project developed by Rabino, Cosca, and MagistradoK. The goal of this project is to briefly describe the main purpose or functionality of the project, "create a clock program in Java that displays the current time and date".
+This repository contains the source code and related files for **Lab 3**, a collaborative project developed by Rabino, Cosca, and MagistradoK. The goal of this project is to briefly describe the main purpose or functionality of the project, "create a clock program in Java that displays to convert Seconds, Minutes and Hours".
 
 ## Project Structure
 The repository includes the following files:
